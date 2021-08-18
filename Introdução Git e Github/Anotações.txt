@@ -1,2 +1,13 @@
 Link para Download do Git:
 o Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Etapas para exportar e importar do local para o github e vice-versa
+ 1- Copiar o https do repositório
+ 2- Usar função Git Bash Here na pasta que deseja receber o repositório
+ 3- Comando git clone ->https<-
+ 4- Comando cd ->Nome do repositório<-
+ 5- Comando git status -> pra checar a situação
+ 6- Comando git add . -> pra adicionar os arquivos adicionados na pasta
+ 7- Comando git commit -m "comentário do commit pra enviar pro github"
+ 8- Comando git push origin main -> comando para enviar pra nuvem do github
+ 9- Pronto.
